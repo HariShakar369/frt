@@ -14,6 +14,22 @@ Azure Static Web App Azure Static Web Apps allows you to build modern web applic
 HTML,CSS,JAVASCRIPT
 
 # SCREENSHOTS
+![image](https://user-images.githubusercontent.com/115391269/207837208-172c9338-7732-40df-86ce-2bfaa387ac3e.png)
+
+
+![image](https://user-images.githubusercontent.com/115391269/207837268-991c054a-4c00-4ee6-ba1b-aa420bbf04f3.png)
+
+
+![image](https://user-images.githubusercontent.com/115391269/207837340-41e349e0-a2ae-48c6-bb21-3c7997482e3d.png)
+
+
+![image](https://user-images.githubusercontent.com/115391269/207837406-264479da-a789-40d9-91cd-d6a93fe74aba.png)
+
+
+![image](https://user-images.githubusercontent.com/115391269/207837439-1a2b0ef2-be13-457a-9c1d-de985ce90bb4.png)
+
+
+
 
 # DEMO VIDEO
 
